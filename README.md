@@ -17,8 +17,8 @@ This is re-worked and improved version of scripts created by Richard@hetnet.nl a
 
 ## Contributors
 
-Richard@hetnet.nl
-kostia.kim@me.com
+- Richard@hetnet.nl
+- kostia.kim@me.com
 
 
 ## License
